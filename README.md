@@ -19,9 +19,21 @@ Este projeto é um conversor de moedas feito em Java com orientação a objetos.
 
 # 💱 Currency Converter 
 
-This project is a currency converter built in Java using object-oriented programming. It allows the user to convert values between currencies of their choice, as well as view the conversion history. The project meets the basic requirements of the Tech Foundation ONE G8 BR Challenge, and also includes extra features such as conversion history, logging, and support for additional currencies. Exception handling is implemented, including a restriction that only existing currency codes are accepted as input.
+This project is a currency converter developed in Java using object-oriented programming. It allows the user to convert values between currencies of their choice and view a conversion history.The project meets the basic requirements described in the documentation, as well as includes extra features such as history creation, log recording, and the option to convert additional currencies. It also includes exception handling, ensuring that only valid existing currency codes are accepted as input.
 
+## 💱 Currency Converter Project
 
+This code is composed of:
+
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+- `java.time` library for date and time logging  
+- HTTP requests using `HttpClient` to access the [ExchangeRate API](https://www.exchangerate-api.com/)  
+- Gson for JSON parsing  
+
+## 🛠️ Technologies
+
+- IntelliJ IDEA  
+- ExchangeRate API
 
   
 
