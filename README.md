@@ -19,9 +19,7 @@ Este projeto é um conversor de moedas feito em Java com orientação a objetos.
 
 # 💱 Currency Converter 
 
-This project is a currency converter developed in Java using object-oriented programming. It allows the user to convert values between currencies of their choice and view a conversion history.The project meets the basic requirements described in the documentation, as well as includes extra features such as history creation, log recording, and the option to convert additional currencies. It also includes exception handling, ensuring that only valid existing currency codes are accepted as input.
-
-## 💱 Currency Converter Project
+This project is a currency converter developed in Java using object-oriented programming. It allows the user to convert values between currencies of their choice and view a conversion history.The project meets the basic requirements described in the documentation, as well as includes extra features such as history creation, log recording, and the option to convert additional currencies. It also includes exception handling, ensuring that only valid existing currency codes are accepted as input
 
 This code is composed of:
 
