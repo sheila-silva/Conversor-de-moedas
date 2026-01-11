@@ -1,4 +1,5 @@
 # 💱 Conversor de Moedas
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)
 
 Este projeto é um conversor de moedas feito em Java com orientação a objetos. Ele permite que o usuário converta valores entre moedas de sua escolha, além de visualizar o histórico de conversões. Este projeto segue os requisitos básicos pedidos na documentação, além de funções extras para criação de histórico, registro de logs e opção para conversão de novas moedas. Há tratamento de exceções, na qual são permitidas somente entradas de siglas de moedas existentes.  
 
